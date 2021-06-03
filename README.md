@@ -1,20 +1,6 @@
-![](https://i.imgur.com/xG74tOh.png)
+Este foi o primeiro desafio do curso de programação do zero que iniciei no dia 15/03/2021 na CUBOS ACADEMY. 
+Basicamente ele consistia na recriação de uma pagina em HTML  e CSS puro, no futuro pode ser que eu adicione itens Java Script considerando que é a linguagem que estou focado na atualidade. 
 
-# Desafio | Front-end - Módulo 1
+Existem dois arquivos (css2 e desafio2) que foram testes de criação em tipos diferentes de display, na oportunidade pela linha de aprendizado achei interessante testar as duas frentes, mas o valido e entregue como atividade foram efetivamente o desafio.html e desafio.css.
 
-O objetivo deste exercício é replicar a página encontrada no arquivo 'Desafio front academy 1.fig'.
-
-## Páginas obrigatórias
- - Início
-
-## Páginas opcionais
- - Post (Continuar Lendo)
- - Contato
-
-Você está livre para utilizar o método de layout de sua preferência (flex, grid, block, etc).
-
-**LEMBRE-SE**: é melhor feito do quê perfeito!!!
-
-
-
-###### tags: `front-end` `módulo 1` `HTML` `CSS` `desafio`
+Obrigado!
